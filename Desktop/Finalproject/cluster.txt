@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 5082-62AD
+
+ Directory of C:\Users\Vijayalakshmi Huddar\Desktop\Finalproject
+
+28-04-2019  09:23    <DIR>          .
+28-04-2019  09:23    <DIR>          ..
+28-04-2019  09:23                 0 cluster.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  330,195,120,128 bytes free
