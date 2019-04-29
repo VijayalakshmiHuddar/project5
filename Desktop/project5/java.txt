@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 5082-62AD
+
+ Directory of C:\Users\Vijayalakshmi Huddar\Desktop\project5
+
+29-04-2019  00:38    <DIR>          .
+29-04-2019  00:38    <DIR>          ..
+29-04-2019  00:38                 0 java.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  329,574,076,416 bytes free
